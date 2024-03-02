@@ -42,7 +42,7 @@ O DevLinks é um agregador de links para usar como cartão de visitas online.
 </p>
 
 <ul>
-  <li> <a href="https://github.com/RivaldoPeixoto/RivaldoPeixoto.git">Acesse o projeto finalizado, online</a> </li>
+  <li> <a href="https://rivaldopeixoto.github.io/ProDev">Acesse o projeto finalizado, online</a> </li>
   <li> <a href="https://lp.rocketseat.com.br/devlinks/inscricao?utm_source=github&utm_medium=descricao&utm_campaign=capture-devlinks&utm_term=organic&utm_content=descricao-github-mayk-brito">Assistir aulas</a> </li>
 </ul>
 
